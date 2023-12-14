@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "51426142609",
+    "project_id": "learner-dc59e",
+    "storage_bucket": "learner-dc59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51426142609:android:cf8ce0b19f92bee3c2d230",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51426142609-ant5vnktdt5u3c0ji8kvghjruiq68s1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2urN3R4FOwTk4OdSgmQSxUd-_JNqSAHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51426142609-ant5vnktdt5u3c0ji8kvghjruiq68s1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51426142609-ac5m58qc3n6q861k2l9lrinf9s7op1cj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
